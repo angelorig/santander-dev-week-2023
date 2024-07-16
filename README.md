@@ -1,3 +1,8 @@
+# API da Santander Dev Week 2023
+RESTful API da Santander Dev Week 2023 construída em Java 22 com Spring Boot.
+
+## Diagrama de Classes
+
 ```mermaid
 classDiagram
   class User {
